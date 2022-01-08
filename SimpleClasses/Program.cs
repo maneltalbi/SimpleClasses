@@ -16,8 +16,9 @@
                 myCar.Year,
                 myCar.Color);
 
-            decimal value = DetermineMarketValue(myCar);
-            Console.WriteLine("{0:C}" , value);
+            //  decimal value = DetermineMarketValue(myCar);
+            // Console.WriteLine("{0:C}" , value);
+            Console.WriteLine("{0:C}" , myCar.DetermineMarketValue());
 
             Console.ReadLine();
 
@@ -40,7 +41,15 @@
         public string Model { get; set; }
         public int Year { get; set; }
         public string Color { get; set; }
-
+        public decimal DetermineMarketValue()
+        {
+            decimal carValue;
+            if (Year > 1990)
+                carValue = 10000;
+            else
+                carValue = 2000;
+            return (carValue);
+        }
 
     }
 }
