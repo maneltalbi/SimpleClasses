@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
