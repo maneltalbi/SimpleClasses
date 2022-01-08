@@ -3,3 +3,13 @@ C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleCl
 C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
 C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\ref\SimpleClasses.dll
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+C:\Users\DELL\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
